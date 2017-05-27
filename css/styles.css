@@ -325,8 +325,8 @@ Waypoints
 .wp3 { background: url('../img/iphone-bg.png') no-repeat center center; background-position: 200px 10px; height: 100%; }
 
 .social {
-	/*height: 58px;
-	width: 1140;*/
+	height: 80px;
+	width: 1140px;
 	text-align: center;
 	/*position: relative;*/
 	/*margin: 14px;*/
