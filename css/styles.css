@@ -328,10 +328,10 @@ Waypoints
 	height: 80px;
 	width: 1140px;
 	text-align: center;
-	/*position: relative;*/
+	position: relative;
 	/*margin: 14px;*/
 }
-
+/*
 .vk {
 	margin: 20px;
 }
@@ -342,4 +342,4 @@ Waypoints
 
 .facebook {
 	margin: 17px;
-}
+}*/
