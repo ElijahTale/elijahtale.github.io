@@ -302,7 +302,7 @@ Contact
 Footer
 ========================================================================== */
 footer a { color: #a1a9b0; }
-footer { background-color: #242830; padding: 40px 0 30px; }
+footer { background-color: #242830; padding: 15px 0 20px; }
 footer p { color: #fff; }
 ul.legals { list-style: none; color: #fff; line-height: 25px; }
 ul.legals li { display: inline-block; }
@@ -325,6 +325,19 @@ Waypoints
 .wp3 { background: url('../img/iphone-bg.png') no-repeat center center; background-position: 200px 10px; height: 100%; }
 
 .social {
-	/*display: flex;*/
+	position: relative;
+	margin: 14px;
+	/*margin-right: 55px;*/
+}
+
+.twitter {
 	/*position: relative;*/
+	/*display: inline;*/
+	margin: 39px;
+}
+
+.facebook {
+	/*position: relative;*/
+	/*display: flex;*/
+	margin: 51px;
 }
